@@ -3,5 +3,8 @@ Class A{
         //code
     }
 
-    
+    public void m3(){
+        // code1
+        // code2
+    }
 }
